@@ -1,0 +1,4 @@
+smcv.mes_tt_qas_checkout_his|smcvogg|smcv_sel.v_dol_tt_qas_checkout_etl
+smcv.dol_tm_vehicle_part_his|smcvogg|sh_smcvdms_dol_owdol.tm_vehicle_part
+smcv.dol_oversea_tt_sgm_sales_order_his|smcvogg|sh_smcvdms_oversea_owoversea.tt_sgm_sales_order
+smcv.dol_ti_shipment_app_interface_his|smcvogg|sh_smcvdms_dol_owdol.ti_shipment_app_interface
